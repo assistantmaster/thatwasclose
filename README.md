@@ -5,4 +5,4 @@ This game isn't that easy to close. But that's what you're supposed to do... Try
 You need to have python pygame installed!
 If you haven't, install it via "pip install python" and "pip install pygame"
 
-To start the game, execute (only) thatwasclose.py
+To start the game, execute (only) that was close.py
